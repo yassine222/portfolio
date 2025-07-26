@@ -132,7 +132,7 @@ export default function Projects() {
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">My Projects</h2>
           <p className="text-gray-600 dark:text-muted-foreground max-w-2xl mx-auto">
-            Here are some of the projects I've worked on. Each one represents a unique challenge and learning experience.
+            Here are some of the projects I&apos;ve worked on. Each one represents a unique challenge and learning experience.
           </p>
         </div>
 

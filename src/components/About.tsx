@@ -13,7 +13,7 @@ export default function About() {
           <div>
             <h3 className="text-2xl font-semibold mb-4">Who I Am</h3>
             <p className="text-gray-600 dark:text-muted-foreground mb-6">
-              I'm a Junior Full Stack Mobile Developer with a passion for creating innovative mobile solutions. 
+              I&apos;m a Junior Full Stack Mobile Developer with a passion for creating innovative mobile solutions. 
               With over a year of experience in mobile app development, I specialize in Flutter and have contributed 
               to projects like AdopteMe, Kwik-Kik, and Axia Trade.
             </p>

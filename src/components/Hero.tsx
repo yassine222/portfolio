@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="container-max">
         <div className="text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
-            Hi, I'm <span className="gradient-text">Yassine Romdhane</span>
+            Hi, I&apos;m <span className="gradient-text">Yassine Romdhane</span>
           </h1>
           
           {/* Profile Photo Section */}

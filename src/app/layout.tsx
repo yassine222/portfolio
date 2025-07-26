@@ -16,11 +16,7 @@ export const metadata: Metadata = {
   description: "Junior Full Stack Mobile Developer specializing in Flutter development",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout() {
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
